@@ -1,8 +1,10 @@
+
 #include "lib1/Calc.hpp"
 
 #include <iostream>
 
-int main(int argc, char *argv[], char* env[]) 
+// int main(int argc, char *argv[], char* envp[])
+int main(int argc, char *argv[]) 
 {
   Calc calc;
 
