@@ -33,7 +33,10 @@
 
 # Bin directory
 bin/*
-
 !bin/README.txt
+
+# build directory
+build/*
+!build/README.txt
 
 .vscode/*
